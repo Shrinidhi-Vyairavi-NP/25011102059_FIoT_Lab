@@ -13,7 +13,7 @@
 
 ## Circuit Diagram
 
-![Circuit Diagram](CAT14.png)
+![Circuit Diagram](CAT14/CAT14.png)
 
 ## Core Logic
 
