@@ -1,10 +1,13 @@
 # EXP: Continuous Lab Evaluation-14
 
 **EXP:** Continuous Lab Evaluation-14  
-**DATE:** 27/10/2026
-**NAME OF EXP:** Sensor Interfacing (BME280) – (MQTT) – Node Analytics: BME280 Sensor Interfacing Using $I^2C$ and (MQTT) using Custom Built ESP8266 API
+**DATE:** 27/10/2026  
+
+**NAME OF EXP:** Sensor Interfacing (BME280) – (MQTT) – Node Analytics: BME280 Sensor Interfacing Using $I^2C$ and (MQTT) using Custom Built ESP8266 API  
+
 **HARDWARE SETUP / PLATFORM:** CubeMX + Keil MDK + STM32 BluePill (STM32F103C8T6) + Debugger + BME280 Sensor + ESP8266 (Wi-Fi)
-**Libraries:** Custom Built ESP8266 API (MQTT), Bosch BME280 API, STM32 HAL Libraries, Node-RED 
+**Libraries:** Custom Built ESP8266 API (MQTT), Bosch BME280 API, STM32 HAL Libraries, Node-RED  
+
 **TASK NO:** 14
 
 
