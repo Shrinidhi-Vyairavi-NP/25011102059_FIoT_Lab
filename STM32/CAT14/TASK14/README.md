@@ -1,4 +1,4 @@
-# EXP: Continuous Lab Evaluation-13
+# EXP: Continuous Lab Evaluation-14
 
 **DATE:** 27/10/2026
 
@@ -6,16 +6,14 @@
 
 ## HARDWARE SETUP / PLATFORM
 
-* **Tools & Hardware:** STM32CubeMX, Keil MDK, STM32 Nucleo / Blue Pill Development Board (STM32F103C8T6), Debugger, BME280 Sensor ($I^2C$), ESP8266 Wi-Fi Module (UART)
+* **Tools & Hardware:** STM32CubeMX, Keil MDK, STM32 BluePill (STM32F103C8T6), Debugger, BME280 Sensor ($I^2C$), ESP8266 Wi-Fi Module (UART)
 * **Libraries:** Custom Built ESP8266 API (MQTT), Bosch BME280 API, STM32 HAL Libraries, Node-RED
 
-## TASK NO
-
-* 13
+## TASK 13
 
 ## Circuit Diagram
 
-![Circuit Diagram](./assets/circuit_diagram_task13.png)
+![Circuit Diagram](CAT14.png)
 
 ## Core Logic
 
