@@ -1,4 +1,4 @@
-# Continuous Lab Evaluation-7 (Task 7B)
+# Continuous Lab Evaluation-7 
 
 **EXP:** Continuous Lab Evaluation-7  
 **DATE:** 24/08/2026  
@@ -9,7 +9,7 @@
 ---
 
 ### Circuit Diagram
-![Circuit Diagram](../CAT7B.png)
+![Circuit Diagram](../CAT7.png)
 
 ---
 
