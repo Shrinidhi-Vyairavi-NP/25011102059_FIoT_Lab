@@ -1,10 +1,10 @@
-# Continuous Lab Evaluation-12
+# Continuous Lab Evaluation-13
 
 **EXP:** Continuous Lab Evaluation-13  
 **DATE:** 23/10/2026  
 **NAME OF EXP:** BME280 Sensor Interfacing Using I²C and Bosch Sensor API  
 **HARDWARE SETUP / PLATFORM:** CubeMX + Keil MDK + STM32 BluePill (STM32F103C8T6) + Debugger + BME280 Sensor + ESP8266 (Wi-Fi)  
-**TASK NO:** 12  
+**TASK NO:** 13 
 
 ---
 
