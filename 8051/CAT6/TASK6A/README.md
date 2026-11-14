@@ -1,4 +1,4 @@
-# Continuous Lab Evaluation-6 (Task A)
+# Continuous Lab Evaluation-6 
 
 **EXP:** Continuous Lab Evaluation-6  
 **DATE:** 17/08/2026  
