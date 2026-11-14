@@ -1,24 +1,20 @@
-# Foundations of IoT — Lab Evaluation Index
+# Foundations of IoT — Laboratory Index (`25011102059_FIoT_Lab`)
 
-**Student:** N P Shrinidhi Vyairavi  
-**Roll Number:** 25011102059  
-**Repository:** [Shrinidhi-Vyairavi-NP/25011102059_FIoT_Lab](https://github.com/Shrinidhi-Vyairavi-NP/25011102059_FIoT_Lab)
+**Name:** N P Shrinidhi Vyairavi | **Roll Number:** 25011102059 | **B.Tech CSE (IoT)**
 
-## Evaluation Index
-
-| CAT | FOLDER | DOCUMENTATION | CIRCUIT DIAGRAM |
-| :--- | :--- | :--- | :--- |
-| **CAT-2** | [8051/CAT2](./8051/CAT2/) | [README.md](./8051/CAT2/README.md) | [CAT2.PNG](./8051/CAT2/CAT2.PNG) |
-| **CAT-3** | [8051/CAT3](./8051/CAT3/) | [README.md](./8051/CAT3/README.md) | [CAT3.PNG](./8051/CAT3/CAT3.PNG) |
-| **CAT-4** | [8051/CAT4](./8051/CAT4/) | [README.md](./8051/CAT4/README.md) | [CAT4.PNG](./8051/CAT4/CAT4.PNG) |
-| **CAT-5** | [8051/CAT5](./8051/CAT5/) | [README.md](./8051/CAT5/README.md) | [CAT5A.PNG](./8051/CAT5/CAT5A.PNG) · [CAT5B.PNG](./8051/CAT5/CAT5B.PNG) · [CAT5C.PNG](./8051/CAT5/CAT5C.PNG) | 
-| **CAT-6** | [8051/CAT6](./8051/CAT6/) | [README.md](./8051/CAT6/README.md) | [CAT6.PNG](./8051/CAT6/CAT6.PNG) |
-| **CAT-7** | [8051/CAT7](./8051/CAT7/) | [README.md](./8051/CAT7/README.md) | [CAT7.PNG](./8051/CAT7/CAT7.PNG) |
-| **CAT-8** | [STM32/CAT8](./STM32/CAT8/) | [README.md](./STM32/CAT8/README.md) | [CAT8.PNG](./STM32/CAT8/CAT8.PNG) |
-| **CAT-9** | [STM32/CAT9](./STM32/CAT9/) | [README.md](./STM32/CAT9/README.md) | [CAT9.PNG](./STM32/CAT9/CAT9.PNG) |
-| **CAT-10** | [STM32/CAT10](./STM32/CAT10/) | [README.md](./STM32/CAT10/README.md) | [CAT10.PNG](./STM32/CAT10/CAT10.PNG) |
-| **CAT-11** | [STM32/CAT11](./STM32/CAT11/) | [README.md](./STM32/CAT11/README.md) | [CAT11.PNG](./STM32/CAT11/CAT11.PNG) |
-| **CAT-12** | [STM32/CAT12](./STM32/CAT12/) | [README.md](./STM32/CAT12/README.md) | [CAT12.PNG](./STM32/CAT12/CAT12.PNG) |
-| **CAT-13** | [STM32/CAT13](./STM32/CAT13/) | [README.md](./STM32/CAT13/README.md) | [CAT13.PNG](./STM32/CAT13/CAT13.PNG) |
-| **CAT-14** | [STM32/CAT14](./STM32/CAT14/) | [README.md](./STM32/CAT14/README.md) | [CAT14.PNG](./STM32/CAT14/CAT14.PNG) |
-| **CAT-15** | [STM32/CAT15](./STM32/CAT15/) | [README.md](./STM32/CAT15/README.md) | [CAT15.PNG](./STM32/CAT15/CAT15.PNG) |
+| CAT | FOLDER | CIRCUIT DIAGRAM |
+| :--- | :--- | :--- |
+| **CAT-2** | [8051/CAT2](./8051/CAT2) | [CAT2.png](./8051/CAT2/CAT2.png) |
+| **CAT-3** | [8051/CAT3](./8051/CAT3) | [CAT3.png](./8051/CAT3/CAT3.png) |
+| **CAT-4** | [8051/CAT4](./8051/CAT4) | [CAT4.png](./8051/CAT4/CAT4.png) |
+| **CAT-5** | [8051/CAT5](./8051/CAT5) | [CAT5A.png](./8051/CAT5/CAT5A.png) · [CAT5B.png](./8051/CAT5/CAT5B.png) · [CAT5C.png](./8051/CAT5/CAT5C.png) |
+| **CAT-6** | [8051/CAT6](./8051/CAT6) | [CAT6A.png](./8051/CAT6/CAT6A.png) · [CAT6B.png](./8051/CAT6/CAT6B.png) |
+| **CAT-7** | [8051/CAT7](./8051/CAT7) | [CAT7.png](./8051/CAT7/CAT7.png) |
+| **CAT-8** | [STM32/CAT8](./STM32/CAT8) | [CAT8.png](./STM32/CAT8/CAT8.png) |
+| **CAT-9** | [STM32/CAT9](./STM32/CAT9) | [CAT9.png](./STM32/CAT9/CAT9.png) |
+| **CAT-10** | [STM32/CAT10](./STM32/CAT10) | [CAT10.png](./STM32/CAT10/CAT10.png) |
+| **CAT-11** | [STM32/CAT11](./STM32/CAT11) | [CAT11.png](./STM32/CAT11/CAT11.png) |
+| **CAT-12** | [STM32/CAT12](./STM32/CAT12) | [CAT12.png](./STM32/CAT12/CAT12.png) |
+| **CAT-13** | [STM32/CAT13](./STM32/CAT13) | [CAT13.png](./STM32/CAT13/CAT13.png) |
+| **CAT-14** | [STM32/CAT14](./STM32/CAT14) | [CAT14.png](./STM32/CAT14/CAT14.png) |
+| **CAT-15** | [STM32/CAT15](./STM32/CAT15) | [CAT15.png](./STM32/CAT15/CAT15.png) |
