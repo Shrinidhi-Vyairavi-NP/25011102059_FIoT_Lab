@@ -9,7 +9,7 @@
 ---
 
 ### Circuit Diagram
-![Circuit Diagram](../CAT11.png)
+![Circuit Diagram](CAT11.png)
 
 ---
 
